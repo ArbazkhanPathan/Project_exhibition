@@ -1,2 +1,1 @@
-# Project_exhibition
-Project_exhibition-1
+before running the codes, install the libraries
